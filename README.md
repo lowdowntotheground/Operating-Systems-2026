@@ -1,6 +1,6 @@
 # Operating-Systems-2026
 
-A short description of what this project does and who it's for.
+Topic for this project is creating an Expense Tracker
 
 ## Installation
 
