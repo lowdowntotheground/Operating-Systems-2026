@@ -1,1 +1,1 @@
-# Feature 2: Adding up total expenses by Trey O'Donnell
+# Feature 2: Sort the input by Trey O'Donnell
