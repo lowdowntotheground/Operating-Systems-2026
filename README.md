@@ -1,4 +1,4 @@
-# Operating-Systems-2026
+# Expense Tracker
 
 Topic for this project is creating an Expense Tracker
 
